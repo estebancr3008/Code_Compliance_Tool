@@ -1,0 +1,2568 @@
+ 
+
+In this Chapter : 
+
+Intent of the Chapter 
+
+  To familiarize end users of various types of  Fire  
+
+Extinguishers. 
+
+  To enable designers and owners to Choose extinguishers 
+
+appropriately according to the hazard. 
+
+  To regulate the inspection and maintenance of Fire 
+
+Extinguishers. 
+
+  Definition of various types of 
+
+fire extinguishers 
+
+  Classes of Fires and applicable 
+categories of fire extinguishers 
+
+  Inspection and maintenance of 
+
+fire extinguishers 
+
+ 
+
+1. Definitions 
+
+1.1. General 
+
+It is a mandatory requirement from Civil Defence. 
+
+1.1.1.  Shall  
+ 
+ 
+1.1.2.  Should 
+ 
+ 
+1.1.3.  Listed 
+ 
+ 
+1.1.4.  Gallon. U.S. Standard and Kilogram  
+ 
+
+ 
+1.1.5.  Kilogram  
+ 
+
+1 Kg = 2.20.lb (Pounds) 
+
+ 
+
+It is a suggested requirement recommended by Civil Defence but not mandatory. 
+
+Approved and registered by individual Emirates’ Civil Defence material department. 
+
+1 U.S. gal = 3.785 L., 1 Kg = 1.8 Liter, Approx. (Units used in this chapter are either Kil-
+ograms or US Gallons. Conversion of Liter to Kg without  knowing specific density, 
+Liter conversion to Kg is approximate.) 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 353 of 1348 
+
+ 
+
+1.2. Fire Extinguishers 
+
+ 
+1.2.1.  Class A Fire  
+ 
+
+Fires in ordinary combustible materials, such as wood, cloth, paper, rubber, and many 
+plastics. 
+
+ 
+1.2.2.  Class B Fire  
+ 
+
+Fires in flammable liquids, combustible liquids, petroleum greases, tars, oils, oil-based 
+paints, solvents, lacquers, alcohols, and flammable gases. 
+
+Fires that involve energized electrical equipment. 
+
+ 
+1.2.3.  Class C Fire  
+ 
+ 
+1.2.4.  Class D Fire  
+ 
+
+Fires in combustible metals, such as magnesium, titanium, zirconium, sodium, lithium, 
+and potassium. 
+
+ 
+1.2.5.  Class K Fire  
+ 
+
+Fires in cooking appliances that involve combustible cooking media (vegetable or ani-
+mal oils and fats). 
+
+ 
+1.2.6.  Light (Low) Hazard  
+ 
+
+Light hazard occupancies are locations where the total amount of Class A combustible 
+materials, including furnishings, decorations, and contents, is of minor quantity. This 
+can include some buildings or rooms occupied as offices, classrooms, churches, as-
+sembly halls, guest room areas of hotels/motels, and so forth. This classification antic-
+ipates that the majority of content items are either noncombustible or so arranged 
+that a fire is not likely to spread rapidly. Small amounts of Class B flammables used for 
+duplicating machines, art departments, and so forth, are included, provided that they 
+are kept in closed containers and safely stored. 
+
+ 
+1.2.7.  Ordinary (Moderate) Hazard  
+ 
+
+Ordinary hazard occupancies are locations where the total amount of Class A combus-
+tibles and Class B flammables are present in greater amounts than expected under 
+light (low) hazard occupancies. These occupancies could consist of dining areas, mer-
+cantile shops and allied storage, light manufacturing, research operations, auto show-
+rooms, parking garages, workshop or support service areas, and warehouses contain-
+ing Class I or Class II commodities as defined Chapter 9. Fire Fighting Systems, Defini-
+tions. 
+
+ 
+1.2.8.  Extra (High) Hazard  
+ 
+
+Extra hazard occupancies are locations where the total amount of Class A combusti-
+bles and Class B flammables present, in storage, production, use, finished product, or 
+combination thereof, is over and above those expected in occupancies classed as or-
+dinary (moderate) hazard. These occupancies could consist of woodworking; vehicle 
+repair; aircraft and boat servicing; cooking areas; individual product display show-
+rooms; product convention center displays; and storage and manufacturing processes 
+such as painting, dipping, and coating, including flammable liquid handling. Also in-
+cluded is warehousing of or in-process storage of other than Class I and Class II com-
+modities. 
+
+ 
+
+ 
+ 
+
+| CDGH-OP-25 |     September 2018Page 354 of 13481.2. Fire Extinguishers 
+
+ 
+1.2.9.  Carbon Dioxide 
+ 
+
+A colorless, odorless, electrically nonconductive inert gas that is a suitable medium 
+for extinguishing Class B and Class C fires. 
+
+ 
+1.2.10.  Dry Chemical  
+ 
+
+A mixture of finely divided solid particles, usually sodium bicarbonate-, potassium 
+bicarbonate-, or ammonium phosphate–based with added particulate material sup-
+plemented by special treatment to provide resistance to packing, and moisture ab-
+sorption (caking), and to promote proper flow characteristics. 
+
+ 
+1.2.11.  Wet Chemical  
+ 
+
+Wet chemicals include, but are not limited to, solutions of water and potassium ac-
+etate, potassium carbonate, potassium citrate, or any combinations thereof 
+
+ 
+1.2.12.  Dry Powder 
+ 
+
+Solid materials in powder or granular form designed to extinguish Class D combus-
+tible metal fires by crusting, smothering, or heat-transferring means. 
+
+ 
+1.2.13.  Film Forming Foam 
+ 
+
+The film-forming foam agents referenced in this standard are AFFF (aqueous film-
+forming foam) and FFFP (film-forming fluoroprotein foam). 
+
+ 
+1.2.14.  Halocarbon Agents  
+ 
+
+Halocarbon agents include hydrochlorofluorocarbon (HCFC), hydrofluorocarbon 
+(HFC), perfluorocarbon (PFC), and fluoroiodocarbon (FIC) types of agents. 
+
+ 
+1.2.15.  High Pressure Cylinder  
+ 
+
+For the purposes of this standard, high-pressure cylinders (and cartridges) are those 
+containing nitrogen, compressed air, carbon dioxide, or other gases at a pressure 
+higher than 500 psi (3447 kPa) at 70°F (21°C). 
+
+ 
+1.2.16.  Low Pressure Cylinder 
+ 
+
+For the purposes of this standard, low-pressure cylinders are those containing fire 
+extinguishing agent (medium), nitrogen, compressed air, or other compressed gases 
+at a service pressure of 500 psi (3447 kPa) or lower at 70°F (21°C). 
+
+ 
+1.2.17.  Portable Fire Extinguisher  
+ 
+
+Portable fire extinguishers are intended as a first line of defense to cope with fires 
+of limited size. They are needed even if the property is equipped with automatic 
+sprinklers, standpipe and hose, or other fixed protection equipment. 
+
+ 
+1.2.18.  Extinguisher Service Pressure 
+ 
+
+The normal operating pressure as indicated on the nameplate or cylinder of a fire 
+extinguisher. 
+
+ 
+1.2.19.  Factory Test Pressure 
+ 
+
+The pressure at which a shell was tested at time of manufacture. This pressure is 
+shown on the nameplate. 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 355 of 13481.2. Fire Extinguishers 
+
+ 
+1.2.20.  Recharging 
+ 
+
+The replacement of the extinguishing agent (also includes the expellant for certain 
+types of fire extinguishers). 
+
+ 
+1.2.21.  Servicing  
+ 
+
+Includes one or more of the following: (a) maintenance, (b) recharging, (c) hydro-
+static testing. 
+
+ 
+1.2.22.  Cartridge Operated Fire Extinguisher 
+ 
+
+A fire extinguisher in which the expellant gas is in a separate container from the 
+agent storage container. 
+
+ 
+1.2.23.  Non-rechargeable Extinguisher 
+ 
+
+A nonrechargeable (nonrefillable) fire extinguisher is not capable of (nor intended 
+to be capable of) undergoing complete maintenance, hydrostatic testing, and being 
+restored to its full operating capability by the standard practices used by fire equip-
+ment dealers and distributors. 
+
+ 
+1.2.24.  Portable Fire Extinguisher  
+ 
+
+A portable device, carried or on wheels and operated by hand, containing an extin-
+guishing agent that can be expelled under pressure for the purpose of suppressing 
+or extinguishing fire. 
+
+ 
+1.2.25.  Rechargeable Extinguisher 
+ 
+
+A rechargeable (refillable) fire extinguisher is capable of undergoing complete 
+maintenance, including internal inspection of the pressure vessel, replacement of 
+all substandard parts and seals, and hydrostatic testing. 
+
+ 
+1.2.26.  General Use Residential Extinguisher 
+ 
+
+A fire extinguisher that has been  specifically investigated, tested, and listed for use 
+only in and around the home (one- and two-family dwellings and living units within 
+multifamily structures) for the purpose of suppressing or extinguishing a fire. 
+
+ 
+1.2.27.  Self Expellant Fire Extinguisher  
+ 
+
+A fire extinguisher in which the agents have sufficient vapor pressure at normal op-
+erating temperatures to expel themselves 
+
+ 
+1.2.28.  Wheeled Type Extinguisher 
+ 
+
+A portable fire extinguisher equipped with a carriage and wheels intended to be 
+transported to the fire by one person. 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 356 of 1348 
+
+2.  Fire Extinguishers 
+
+ 
+
+2.1. Intention 
+
+2.1.1.  Portable Fire Extinguishers are the best available first response to tackle the fire at 
+its incipient stage. The intention of this chapter is to provide a guideline about the 
+types of extinguishers applicable to various natures of fires. 
+
+ 
+2.1.2.  However, usage of fire extinguishers shall be limited to informed and trained person-
+nel. Any fire can grow into catastrophe within minutes. It is not the intention of Civil 
+Defence nor recommendation for people to stay within fire vicinity to fight fires with 
+portable extinguishers, unless the fire is manageable scale and person using the ex-
+tinguisher is trained. 
+
+ 
+
+2.2. Basic Awareness 
+
+2.2.1.  The following are the basic steps necessary to put a 
+
+fire extinguisher into operation:                                                                           
+a. Recognition of equipment as a fire extinguisher                                                                       
+b. Selection and suitability of a fire extinguisher                                                                      
+c. Transport of a fire extinguisher to the fire                                                                                   
+d. Actuation of the fire extinguisher                                  
+e. Application of the extinguishing agent to the fire 
+
+extinguisher was       
+
+The modern fire       
+
+Did You Know? 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+2.2.2.  When a fire extinguisher is being selected, the fol-
+lowing physical conditions should be considered.  
+
+2.2.2.1.  Gross Weight. In the selection of a fire 
+extinguisher, the physical ability of the 
+user should be contemplated. When the 
+hazard exceeds the capability of a hand 
+portable fire extinguisher, wheeled fire 
+extinguishers or fixed systems should be 
+considered. 
+
+invented by British 
+
+Captain George       
+
+William Manby in 1818. 
+
+It consisted of a      
+
+copper vessel of 3  
+
+gallons (13.6  liters) of 
+
+pearl ash (potassium 
+
+carbonate) solution 
+
+contained within        
+
+compressed air. 
+
+                                
+ 
+                      
+  2.2.2.2. Corrosion. In some fire extinguisher installations, there exists a possibility 
+of exposing the fire extinguisher to a corrosive atmosphere. Where this is 
+the case, consideration should be given to providing the fire extinguishers 
+so exposed with proper protection or providing fire extinguishers that have 
+been found suitable for use in these conditions. 
+
+ 
+  2.2.2.3. Agent Reaction. The possibility of adverse reactions, contamination, or oth-
+
+er effects of an extinguishing agent on either manufacturing processes or 
+on equipment or both, should be considered in the selection of a fire extin-
+guisher. 
+
+| CDGH-OP-25 |     September 2018Page 357 of 1348                                                     
+  2.2.2.4. Wheeled Units. Where wheeled fire extinguishers are used, consideration 
+
+should be given to the mobility of the fire extinguisher within the area in 
+which it will be used. For outdoor locations, the use of proper rubber-tired 
+or wide-rimmed wheel designs should be considered according to terrain. 
+For indoor locations, the size of doorways and passages should be large 
+enough to permit ready passage of the fire extinguisher. 
+
+ 
+  2.2.2.5. Wind and Draft. If the hazard is subject to winds or draft, the use of fire 
+
+extinguishers and agents having sufficient range to overcome these condi-
+tions should be considered. 
+
+ 
+  2.2.2.6. Availability of Personnel. Consideration should be given to the number of 
+persons available to operate the fire extinguishers, the degree of training 
+provided, and the physical capability of the operators. 
+
+ 
+
+2.2.3.  Extinguishers should be kept near a door that can be used as an escape route. 
+ 
+2.2.4.  Stay low. Avoid breathing the heated smoke, vapors, or fumes as much as possible, 
+
+as well as the extinguishing agents. 
+
+ 
+2.2.5. 
+
+If you feel confident in attacking the fire, use the appropriate fire-fighting equip-
+ment. If the fire is not extinguished quickly, get out of the building, closing door(s) 
+behind you, and do not re-enter until the facility management handles the incident 
+and Civil Defence personnel evaluate the situation. 
+
+ 
+2.2.6.  A fire creates conditions of stress and intense excitement. Under these conditions, 
+the choice of a correct fire extinguisher needs to be made quickly. The protection 
+planner/Facility Management/Authorized First Responder can help to ensure selec-
+tion of the correct fire extinguisher by using the following procedures:                              
+a. Locating the fire extinguisher near fire hazards for which they are suitable.            
+b. Using fire extinguishers suitable for more than one class of fire                                  
+c. Marking clearly the intended use.                                                                                       
+d. Training employees in the use of proper fire extinguishers. 
+
+ 
+2.2.7.  The use of conspicuous markings to readily identify a fire extinguisher’s suitability is 
+
+particularly important where fire extinguishers are grouped or where multiple fire 
+hazards are present in an area. 
+
+ 
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 358 of 13482.2.8. Obsolete Extinguishers 
+ 
+
+2.2.8.1.   The following types of extinguishers are considered obsolete and should 
+
+be removed from service and replaced:                                                                                                                     
+a. Soda acid types                                                                                                                                 
+b. Chemical foam (excluding film-forming agents)                                                                       
+c. Vaporizing liquid                                                                                                                                 
+d. Cartridge-operated water                                                                                                                
+e. Cartridge-operated loaded stream                                                                                                         
+f. Copper or brass shell fire extinguishers (excluding pump tanks) joined 
+by soft solder or rivets                                                                                                                                               
+g. Extinguishers rated prior to 1955 and marked B-1,C-1 on the name-
+plate                                                                                                                                        
+h. Fire extinguishers not listed or labeled 
+i. Halon 1211 and Halon 1301 Agents 
+
+ 
+ 
+                                                     
+
+2.2.9. Training 
+ 
+
+2.2.9.1.   At least 10 % of the Security personnel, Occupants, Employees and Su-
+
+pervisory personnel of each occupancy shall be trained on basic fire 
+awareness, types, use and operation of fire extinguishers in emergency 
+situation. 
+
+2.2.9.2.   The training shall be conducted by an authorized agency by the Civil De-
+
+fence or by the Civil Defence department personnel. 
+
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 359 of 1348 
+
+2.3. General Requirements  
+
+2.3.1.  The General requirements of Fire Extinguisher shall be as per Table 4.1. 
+ 
+
+ 
+
+Table 4.1: General Requirements of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+1.  EXTINGUISHER 
+
+RATING 
+
+2.  EXTINGUISHER 
+CLASSIFICATION 
+
+AS PER THE TEST LABORATORIES FOLLOWING ARE THE RATING CRITERIA 
+ 
+i.  Class A Rating. Tested on Wood 
+ii.  Class B Rating. Tested on 5.1 cm depth n-heptane fires in square pans. 
+iii. Class C Rating. No fire test. Agent must be a nonconductor of electricity 
+iv. Class D Rating. Special tests on specific combustible metal fires 
+v.  Class K Rating. Special tests on cooking appliances using combustible cooking 
+
+media (vegetable or animal oils and fats) 
+
+i.  The classification of fire extinguishers shall consist of a letter that indicates the 
+
+class of fire on which a fire extinguisher has been found to be effective, pre-
+ceded by a rating number (Class A and Class B only) that indicates the relative 
+extinguishing effectiveness. 
+
+ii.  Fire extinguishers classified for use on Class C, Class D, or Class K hazards shall 
+
+not be required to have a number preceding the classification letter. 
+
+iii.  Class A: The Fires involving ordinary combustible solid materials such as wood, 
+
+cloth, paper, rubber, and many other plastics. 
+
+iv.  Class B: The Fires involving flammable liquids, combustible liquids, all petrole-
+
+um based products, solvents, paints, chemicals and flammable gases. 
+
+v.  Class C:The Fires involving energized electrical equipment due to ignition of 
+
+electrical nature. 
+
+vi.  Class D: The Fires involving combustible metals, such as magnesium, titanium, 
+
+zirconium, sodium, lithium, and potassium. 
+
+vii.  Class K: The Fires involving cooking appliances due to combustible cooking 
+
+media such as vegetable oils and animal fats etc.  
+
+ 
+1.  LABELING 
+ 
+i.  An extinguisher labeling for example (UL Listed), “2-A:10-B:C” conveys the 
+
+following information.                                                                                                        
+a. Extinguisher is capable of extinguishing Class A fire with equivalency of 2.5 
+gallons of water (Number 1=1.25 Gal of water, number 2=2.5 Gal of water, 
+number 3=3.25 Gal of water etc.)                                                                                  
+b. Extinguisher is capable of extinguishing class B fire with a capacity of 10 ft2 
+of coverage. (Number against B implies square foot coverage of extinguisher 
+for class B fires)                                                                                                                 
+c. Extinguisher is also applicable to Class C fires and is non conductive (Usually 
+there are no numbers against C) 
+
+ 
+ 
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 360 of 1348 
+
+Table 4.1: General Requirements of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+3. PLANNING 
+
+Area and arrangement of the building occupancy conditions 
+Severity of the hazard 
+
+THE FOLLOWING ITEMS SHOULD BE EVALUATED BEFORE SELECTING,  INSTALLA-
+TION AND DISTRIBUTING PORTABLE FIRE EXTINGUISHERS IN A BUILDING: 
+ 
+i. 
+ii. 
+iii.  Anticipated classes of fire 
+iv.  Other protective systems or devices 
+v.  Distances to be traveled to reach fire extinguishers 
+vi.  Anticipated rate of fire spread 
+vii. 
+viii.  Smoke contributed by the burning materials 
+ix.  Accessibility of a fire to close approach with portable fire extinguishers 
+
+Intensity and rate of heat development 
+
+4.  INSTALLATION  i. 
+
+ii. 
+
+Portable fire extinguishers shall be maintained in a fully charged and operable 
+condition and shall be kept in their designated places at all times when they are 
+not being used. 
+Fire extinguishers shall be conspicuously located where they will be readily ac-
+cessible and immediately available in the event of fire. Preferably, they shall be 
+located along normal paths of travel, including exits from areas. 
+
+iii.  Before installing any fire-extinguishing equipment, read and understand the 
+
+installation and use instructions, including the limitations, cautions, and warn-
+ings contained on the equipment and in the owner’s manual. 
+
+iv.  Portable extinguishers shall be installed in an accessible spot, free from block-
+
+ing by storage and equipment, and near room exits that provide an escape 
+route. So that the top of the extinguisher is not more than 1.5 m above the 
+floor and not less than 30 cm from the bottom of extinguisher to the finished 
+floor. 
+The extinguisher should be easy to reach and remove and should be placed 
+where it will not be damaged. 
+
+v. 
+
+vi.  Portable extinguishers shall be installed on hangers or in the brackets supplied 
+
+by the manufacturer, mounted in cabinets, or placed on shelves. 
+
+vii.  Extinguishers shall be placed so that the operating instructions on the extin-
+
+guisher face outward. 
+
+viii.  Fire extinguishers shall not be installed / placed in any areas where the temper-
+
+atures outside of the listed temperature range shown on the fire extinguisher 
+label. Generally the fire extinguishers are permitted to be installed in the areas 
+where temperatures ranging from 40C to 490C. 
+
+ix.  Fire extinguishers cabinets shall not be kept locked in any case with in the facili-
+ty. While installation, all the fire extinguishers shall be fully charged and ready 
+for use in case of an emergency.  
+
+ 
+
+ 
+
+Figure 4.1.:  Symbols for Fire Extinguisher Classes 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 361 of 1348 
+
+ 
+
+Table 4.1: General Requirements of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+5.  SAFETY      
+
+i.  Most fires produce toxic decomposition products of combustion, and some 
+
+materials can produce highly toxic gases. Fires can also consume available oxy-
+gen or produce dangerously high exposure to convected or radiated heat. All of 
+these can affect the degree to which a fire can be safely approached with extin-
+guishing equipment. 
+
+ii.  Discharging portable fire extinguishers from too close a distance on cooking 
+
+grease fires can cause splashing of the burning grease or oil and spread the fire. 
+The recommended distance for operating portable fire extinguishers is shown 
+on the label. 
+
+iii.  Portable fire extinguishers should not be installed adjacent to the location of a 
+
+potential fire hazard but should be accessible to the hazard. 
+
+iv.  Halogenated agent extinguisher labels contain information such as the mini-
+
+mum volume of room that can be properly and safely protected.  
+
+v.  When using these extinguishers, avoid breathing the discharged agent or the 
+
+gases produced by the thermal decomposition of the agent.  
+
+vi.  Evacuate and ventilate the area immediately after use.  
+vii.  Carbon dioxide fire extinguishers contain an extinguishing agent that will not 
+support life when used in sufficient concentration to extinguish a fire. The use 
+of a carbon dioxide extinguisher(s) in an unventilated space can dilute the oxy-
+gen supply. Prolonged occupancy of such spaces can result in loss of conscious-
+ness due to oxygen deficiency.  
+
+viii.  Extinguishers not classified for Class C hazards present a shock hazard if used 
+
+on fires involving energized electrical equipment. 
+
+ix.  Dry chemical extinguishers, when used in a small unventilated area, can reduce 
+
+x. 
+
+visibility for a period of up to several minutes. 
+For confined spaces, prominent caution labels on the fire extinguisher, warning 
+signs at entry points, provision for remote application, extra-long-range fire 
+extinguisher nozzles, special ventilation, provision of breathing apparatus and 
+other personal protective equipment, and adequate training of personnel are 
+among the measures that should be considered. 
+
+1.  GENERAL 
+ 
+i. 
+
+Persons who are expected to use a fire extinguisher should be made familiar 
+with all information contained in the manufacturer’s nameplate(s) and the in-
+struction manual.  
+
+ii.  Proper operation of a fire extinguisher requires the operator to execute several 
+
+basic steps in a certain sequence. The fire extinguisher designer, the approval 
+agencies, the installer, and the protection planner can influence significantly 
+the ease and likelihood of these steps being accomplished properly.  
+
+iii.  Where employees have not been trained, operation of fire extinguishers could 
+
+be seriously delayed, the extinguishing material could be wasted due to poor 
+application techniques, and more fire extinguishers could have to be used, or 
+the fire could possibly not be extinguished. 
+
+PRECAUTIONS 
+
+6. OPERATION 
+
+AND USE 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 362 of 1348 
+
+ 
+
+ 
+
+ITEMS 
+
+6. OPERATION 
+
+AND USE 
+
+ 
+
+Table 4.1: General Requirements of Fire Extinguishers 
+
+REQUIREMENTS 
+
+2.  RECOGNITION OF EQUIPMENT AS AN EXTINGUISHER 
+ 
+i. 
+
+Permanent marking on the front of fire extinguishers shall be present, indi-
+cating their purpose, content and usage. 
+
+ii.  Additional signage, not a part of the device, shall be provided to indicate the 
+
+location of a fire extinguisher. These preferably should be standardized 
+throughout the property so that all fire extinguishers are easily “spotted.” The-
+se markings could be in the form of electric lights, placards, mounting boards, 
+overhead signs, color panels or stripes, or cabinets.  
+If fire extinguishers are located along the normal exit paths from an area, per-
+sonnel are more inclined to take them and return to the site of a fire. 
+
+iii. 
+
+ 
+3.  TRANSPORT OF A FIRE EXTINGUISHER TO THE FIRE 
+ 
+i. 
+
+A fire extinguisher should be mounted and located so it can be easily removed 
+in a fire emergency and brought to the site of the fire as quickly as possible. It 
+should be readily accessible without need for moving or climbing over stock, 
+materials or equipment. 
+
+ii.  Quick transport of an extinguisher depends on several factors such as weight of 
+
+the extinguisher, travel distance to fire location, using stairs, using gloves, con-
+gestion of premises, physical ability of the user. Preplanning shall address all 
+these issues to successful and efficient use of fire extinguishers. 
+In the case of wheeled fire extinguishers, the width of aisles and doorways and 
+the nature of the flooring and outside grounds over which the fire extinguisher 
+needs to be moved should be taken into account. 
+
+iii. 
+
+ 
+4.  ACTUATION OF FIRE EXTINGUISHER 
+ 
+i.  Once the fire extinguisher has been transported to the fire site, it should be 
+placed into operation without delay. Employees should be familiar with any 
+steps needed to actuate any fire extinguisher. Here is where previous training is 
+most valuable, since there is little time to stop and read operating instructions 
+on the nameplate. 
+
+ii.  Position for Operation. The intended position for operation is usually marked 
+
+on the fire extinguisher. When the position of operation is obvious (such as 
+when one hand holds the fire extinguisher and the other hand holds the noz-
+zle), this information can be omitted. 
+
+iii.  Removal of Restraining or Locking Devices. Many fire extinguishers have an 
+operation safeguard or locking device that prevents accidental actuation. The 
+most common device is a lock pin or ring pin that needs to be withdrawn before 
+operation. 
+
+iv.  Start of Discharge. This requires one or more of several actions such as 
+
+turning or squeezing a valve handle or lever, pushing a lever, or pumping. 
+
+v.  Agent Application. This act involves direction of the stream of extinguishing 
+agent onto the fire. Nameplate information has advisory notes regarding the 
+application of the agent to different types of fires. 
+
+vi.  Remember the “PASS” word. 
+ 
+
+| CDGH-OP-25 |     September 2018Page 363 of 1348 
+
+ 
+
+ 
+
+ 
+
+Figure 4.2.:  Fire Extinguisher Signage for various locations 
+
+| CDGH-OP-25 |     September 2018Page 364 of 1348 
+
+2.4. Types of Fire Extinguishers  
+
+2.4.1.  The Selection of Fire Extinguishers shall be based on Table 4.2. 
+ 
+
+ 
+
+Table 4.2: Types and Selection of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+1.  WATER TYPE 
+
+1. DESCRIPTION 
+ 
+i.  The most popular type is the 2½ gal (9.46 L) stored-pressure water fire extin-
+guisher. These fire extinguishers are being used to replace inverting types of 
+water fire extinguishers (soda acid and cartridge-operated water) that are no 
+longer manufactured. An important advantage of the stored-pressure water 
+type, as opposed to inverting types, is its ability to be discharged intermittent-
+ly. Some models are suitable for use at freezing conditions when charged as 
+specified on the nameplate.  
+
+ii.  This includes water, antifreeze, wetting agent, and loaded stream fire extin-
+guishers. These fire extinguishers are intended primarily for use on Class A 
+fires. The stream initially should be directed at the base of the flames. After 
+extinguishment of flames, it should be directed generally at smoldering or 
+glowing surfaces. Application should begin as close as possible to the fire. Deep
+-seated fires should be thoroughly soaked and might need to be “broken apart” 
+to effect complete extinguishment. 
+
+ 
+2. APPLICATION 
+ 
+i.  Class A fires., Wood, Paper, Textile, Garbage, Furniture, Residential Plastic, In-
+
+terior décor. 
+
+ 
+3. NOT SUITABLE FOR  
+ 
+i.  Class B fires., Flammable Liquids. 
+ii.  Class C fires., Electrical equipment, Office equipment, Computers. 
+iii. Class K Fires., Cooking fires, Kitchen, grease, oil fires. 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 365 of 1348 
+
+ 
+
+Table 4.2: Types and Selection of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+2.  FOAM TYPE  1. DESCRIPTION 
+
+ 
+i.  AFFF (aqueous film-forming foam) and FFFP (film-forming fluoroprotein)-type fire 
+extinguishers are rated for use on both Class A and Class B fires. They are not suita-
+ble for use in freezing temperatures. An advantage of this type of extinguisher when 
+used on Class B flammable liquid fires of appreciable depth is the ability of the 
+agent to float on and secure the liquid surface, which helps to prevent reignition.  
+
+ii.  Fire extinguishers of these types are usually available in hand portable models of 1.6 
+gal (6 L) and 2½ gal (9.46 L) and in wheeled models having a liquid capacity of 33 gal 
+(125 L). These fire extinguishers have ratings of 2-A:10-B, 3-A:20-B, and 20-A:160-B, 
+respectively. 
+
+iii.  The extinguishing agent is a solution of film-forming surfactant in water that forms 
+
+mechanical foam when discharged through an aspirating nozzle. On Class A fires, 
+the agent acts as both a coolant and penetrant to reduce temperatures to below 
+the ignition level. On Class B fires, the agent acts as a barrier to exclude air or oxy-
+gen from the fuel surface. 
+
+iv. On flammable liquid fires of appreciable depth, best results are obtained when the 
+discharge from the fire extinguisher is played against the inside of the back wall of 
+the vat or tank just above the burning surface to permit the natural spread of the 
+agent back over the burning liquid. If this cannot be done, the operator should 
+stand far enough away from the fire to allow the agent to fall lightly upon the burn-
+ing surface — the stream should not be directed into the burning liquid. Where pos-
+sible, the operator should walk around the fire while directing the stream to get 
+maximum coverage during the discharge period.  
+
+v.  For fires in ordinary combustible materials, the agent can be used to coat the burn-
+ing surface directly. For flammable-liquid spill fires, the agent could be flowed over 
+a burning surface by bouncing it off the floor just in front of the burning area. 
+
+vi. Film-forming foam agents are not effective on flammable liquids and gases escaping 
+
+under pressure or cooking-grease fires. 
+
+ 
+2. APPLICATION 
+ 
+i.  Class A fires., Wood, Paper, Textile, Garbage, Furniture, Residential Plastic, Interior 
+
+décor. 
+
+ii.  Class B fires., Flammable Liquids. 
+ 
+3. NOT SUITABLE FOR  
+ 
+i.  Class C fires., Electrical equipment, Office equipment, Computers. 
+ii.  Below 40C ambient temperatures 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 366 of 1348 
+
+ 
+
+Table 4.2: Types and Selection of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+1. CARBON DIOXIDE (CO2) 
+ 
+i.  The principal advantage of CO2 (carbon dioxide) fire extinguishers is that the 
+
+agent does not leave a residue after use. This can be a significant factor where 
+protection is needed for delicate and costly electronic equipment.  
+
+ii.  Carbon dioxide extinguishers are listed for use on a Class B and Class C fire. 
+
+Since the agent is discharged in the form of a gas/snow cloud, it has a relatively 
+short range of 3 ft. to 8 ft. (1 m to 2.4 m).  
+
+iii. Thus, initial application needs to start reasonably close to the fire. On all fires, 
+
+the discharge should be directed at the base of the flames. The discharge 
+should be applied to the burning surface even after the flames are extinguished 
+to allow added time for cooling and to prevent possible reflash. 
+
+iv. The most commonly used method of agent application on contained flamma-
+ble liquid fires is to start at the near edge and direct the discharge in a slow, 
+side-to-side sweeping motion, gradually progressing toward the back of the 
+fire. The other method is called overhead application. The discharge horn is 
+directed in a dagger or downward position (at an angle of about 45 degrees) 
+toward the center of the burning area. Generally, the horn is not moved, as in 
+the other method, because the discharge stream enters the fire from above 
+and spreads out in all directions over the burning surface. For spill fires, the 
+side-to-side sweeping motion could give better.  
+
+v.  On fires involving electrical equipment, discharge should be directed at the 
+
+source of  the flames. It is important to de-energize the equipment as soon as 
+possible to eliminate the potential of reignition. These agents are not suitable 
+for use on pressurized fuel fires or cooking-grease fires. 
+
+ 
+2. APPLICATION 
+ 
+i.  Class C fires., Electric equipment, office equipment, computers, printing ma-
+
+chines, copy machines. 
+
+ii.  Class B fires., Flammable Liquids. 
+ 
+3. NOT SUITABLE FOR  
+ 
+i.  Water soluble flammable liquids such as alcohol, acetone, esters, ketones. 
+
+3.  CO2 TYPE 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 367 of 1348 
+
+ 
+
+Table 4.2: Types and Selection of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+1.  DRY POWDER (MULTI PURPOSE) 
+ 
+i.  Fire extinguishers of this type contain an ammonium phosphate base agent. 
+
+Hand fire extinguishers are available with fire extinguishment ratings of 1-A to 
+20-A and 10-B:C to 120-B:C and wheeled models with fire extinguishment 
+ratings of 20-A to 40-A and 60-B:C to 320-B:C.  
+
+ii.  Multipurpose agents are used in exactly the same manner as ordinary dry 
+chemical agents on Class B fires. For use on Class A fires, the multipurpose 
+agent has the additional characteristic of softening and sticking when in con-
+tact with hot surfaces. In this way, it can adhere to burning materials and form 
+a coating that will smother and isolate the fuel from air.  
+
+iii. When applying the agent, it is important to try to coat all burning areas in or-
+der to eliminate or minimize the number of small embers that could be a po-
+tential source of reignition. The agent itself has little cooling effect and, be-
+cause of its surface coating characteristic, it cannot penetrate below the burn-
+ing surface. For this reason, extinguishment of deep-seated fires could possibly 
+not be accomplished unless the agent is discharged below the surface or the 
+material is broken apart and spread out. 
+
+iv. Fire extinguishers with a Class B rating can extinguish a fire involving combus-
+
+tible cooking media (vegetable or animal oils and fats).  
+
+v.  Only fire extinguishers having a Class K rating are recommended for use on 
+
+cooking-grease fires. 
+
+ 
+2. APPLICATION 
+ 
+i.  Class A fires., Wood, Paper, Textile, Garbage, Furniture, Residential Plastic, In-
+
+terior décor. 
+
+ii.  Class B fires., Flammable Liquids. 
+iii. Class C fires., Electric equipment, office equipment, computers, printing ma-
+
+chines, copy machines. 
+
+iv. Class D fires., Metal fires involving magnesium, titanium, zirconium, sodium, 
+
+lithium, and potassium. 
+
+ 
+3. NOT SUITABLE FOR  
+ 
+i.  Though it is multipurpose, Class rating should be strictly followed. 
+
+4.  DRY POWDER 
+
+TYPE 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 368 of 1348 
+
+ 
+
+Table 4.2: Types and Selection of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+1.  DRY CHEMICAL 
+ 
+i. 
+
+Due to the different designs and the various types of dry chemical agents, 
+choosing the most suitable dry chemical fire extinguisher requires careful 
+evaluation.  
+
+ii.  Hand portable  models have a discharge stream that ranges from 10 ft. to 30 
+
+ft. (3 m to 9 m), depending on fire extinguisher size. Compared with carbon 
+dioxide or halogenated agent fire extinguishers, they will also perform better 
+under windy conditions. 
+
+iii.  Dry chemical fire extinguishers are available in two basic styles: stored pres-
+sure and cartridge-operated. The stored-pressure (rechargeable) type is the 
+most widely used and is best suited where infrequent use is anticipated and 
+where skilled personnel with professional recharge equipment are available.  
+iv.  The cartridge-operated type has the advantage of being quickly refilled in re-
+
+v. 
+
+mote locations without the need for special equipment.  
+Some dry chemical models can be equipped with long-range (high-velocity) 
+nozzles or applicators that are beneficial in applying the agent under certain 
+special fire-fighting conditions. 
+
+vi.  The potassium and urea-potassium base bicarbonate agents are selected in 
+preference to sodium bicarbonate, principally because of their greater fire-
+extinguishing capabilities. If corrosion is not a factor, potassium chloride can 
+also be included in this group.  
+
+vii.  The ammonium phosphate base agent (multipurpose) is the only dry chemical 
+
+agent that is suitable for Class A protection. In addition to Class B and Class C 
+protection, the residues of multipurpose dry chemical, when left in contact 
+with metal surfaces, can cause corrosion. 
+
+viii.  Where dry chemical fire extinguishers are utilized for Class C protection, it is 
+
+important to consider that the residue of potassium chloride is more corrosive 
+than other dry chemicals and that a multipurpose base agent will be more 
+difficult to remove because it first softens when in contact with hot surfaces 
+and then hardens when it cools.  
+
+ix.  Stored-pressure fire extinguishers are available in capacities from 1 lb to 30 lb 
+
+(0.5 kg to 14 kg) for hand fire extinguishers and 125 kg to 250 lb (57 kg to 
+113.5 kg) for wheeled fire extinguishers. Cartridge/cylinder-operated fire ex-
+tinguishers are available in capacities from 4 lb to 30 lb (1.8 kg to 14 kg) for 
+hand fire extinguishers and 45 lb to 350 lb (20 kg to 159 kg) for wheeled fire 
+extinguishers  
+
+ 
+2. APPLICATION 
+ 
+i.  Class A fires., Wood, Paper, Textile, Garbage, Furniture, Residential Plastic, Inte-
+
+rior décor. 
+
+ii.  Class B fires., Flammable Liquids. 
+iii. Class C fires., Electric equipment, office equipment, computers, printing ma-
+
+chines, copy machines. 
+
+iv. Class D fires., Metal fires involving magnesium, titanium, zirconium, sodium, 
+
+lithium, and potassium. 
+
+ 
+3. NOT SUITABLE FOR  
+ 
+i.  Class rating should be strictly followed. 
+
+6.  DRY CHEMICAL 
+
+TYPE 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 369 of 1348 
+
+ 
+
+Table 4.2: Types and Selection of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+7.  WET CHEMICAL 
+
+TYPE 
+
+1.  WET CHEMICAL 
+ 
+i.  Fire extinguishers of this type are available in hand portable models of 1.5 gal (6 
+
+L) and 2½ gal (9.46 L). The extinguishing agent can be comprised of, but is not 
+limited to, solutions of water and potassium acetate, potassium carbonate, po-
+tassium citrate, or a combination of the aforementioned chemicals (which are 
+conductors of electricity). The liquid agent typically has a pH of 9.0 or less.  
+
+ii.  On Class A fires, the agent works as a coolant. On Class K fires (cooking-oil fires), 
+the agent forms a foam blanket to prevent reignition. The water content of the 
+agent aids in cooling and reducing the temperature of the hot oils and fats be-
+low their autoignition point. The agent, when discharged as a fine spray directly 
+at cooking appliances, reduces the possibility of splashing hot grease and does 
+not present a shock hazard to the operator. 
+
+iii. In recent years, the development of high-efficiency cooking equipment with 
+
+high-energy input rates and the widespread use of vegetable oils with high au-
+toignition temperatures has highlighted the need for a new Class K fire extin-
+guisher. The wet chemical extinguisher was the first extinguisher to qualify to 
+the new Class K requirements. 
+
+iv.  In addition to offering rapid fire extinguishment, a thick foam blanket is formed 
+
+to prevent reignition while cooling both the appliance and the hot cooking oil. 
+Wet chemical extinguishers also offer improved visibility during fire fighting as 
+well as minimizing clean-up afterwards. 
+
+ 
+2. APPLICATION 
+ 
+i.  Class A fires., Wood, Paper, Textile, Garbage, Furniture, Residential Plastic, Inte-
+
+rior décor. 
+
+ii.  Class K fires., Kitchen fires, deep seated cooking, fryer oil fires. 
+ 
+3. NOT SUITABLE FOR  
+ 
+i.  Class rating should be strictly followed. 
+ii.  Class B fires., Flammable Liquids. 
+iii. Class C fires., Electric equipment, office equipment, computers, printing ma-
+
+chines, copy machines. 
+
+iv. Class D fires., Metal fires involving magnesium, titanium, zirconium, sodium, 
+
+lithium, and potassium. 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 370 of 1348 
+
+ 
+
+Table 4.2: Types and Selection of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+8.  HALOCARBON 
+       (CLEAN 
+
+AGENT) TYPE 
+
+1.  HALOCARBON (CLEAN AGENT) 
+ 
+i.  Halocarbon agents are similar to halon agents in that they are nonconductive, 
+
+noncorrosive, and evaporate after use, leaving no residue.  
+
+ii.  Larger models of halocarbon fire extinguishers are listed for Class A as well as 
+
+Class B and Class C fires, which makes them quite suitable for use on fires in 
+electronic equipment.  
+
+iii.  Compared to carbon dioxide on a weight-of-agent basis, halocarbon agents are 
+at least twice as effective. When discharged, the agent is in a combined form of 
+a gas/mist with about twice the range of carbon dioxide. To some extent, windy 
+conditions or strong air currents could make extinguishing difficult. 
+
+iv. On flammable liquid fires, best results are obtained when the discharge from 
+the fire extinguisher is employed to sweep the flame off the burning surface, 
+applying the discharge first at the near edge of the fire and gradually progress-
+ing toward the back of the fire by moving the discharge nozzle slowly from side 
+to side.  
+
+v.  In using fire extinguishers of this type in unventilated places, such as small 
+
+rooms, closets, or confined spaces, operators and other persons should avoid 
+breathing the extinguishing agent or the gases produced by thermal decomposi-
+tion.  
+
+ 
+2. APPLICATION 
+ 
+i.  Class A fires., Wood, Paper, Textile, Garbage, Furniture, Residential Plastic, Inte-
+
+rior décor. 
+
+ii.  Class B fires., Flammable Liquids, excluding pressurized fuels 
+iii. Class C fires., Electric equipment, office equipment, computers, printing ma-
+
+chines, copy machines 
+
+ 
+3. NOT SUITABLE FOR  
+ 
+i.  Pressurized fuels. 
+ii.  Class K fires., Cooking and grease fires. 
+iii. Outdoors and unenclosed spaces. 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 371 of 1348 
+
+ 
+
+Table 4.2: Types and Selection of Fire Extinguishers 
+
+ITEMS 
+
+REQUIREMENTS 
+
+9.  WHEELED TYPE  1.  WHEELED TYPE EXTINGUISHER 
+
+ 
+i.  The selection of any type of wheeled fire extinguisher is generally associated 
+with a recognized need to provide additional protection for special hazards or 
+large, extra-hazard areas.  
+
+ii.  Where wheeled fire extinguishers are to be installed, consideration should be 
+
+given to mobility within the area in which they will be used. 
+
+iii. For outdoor locations, models with rubber tires or wide-rim wheels will be easi-
+
+er to transport.  
+
+iv. For indoor locations, doorways, aisles, and corridors need to be wide enough to 
+
+permit the ready passage of the fire extinguisher.  
+
+v.  Because of the magnitude of the fire it will generally be used on, this type of fire 
+extinguisher should be reserved for use by operators who have actually used the 
+equipment, who have received special instructions on the use of the equipment, 
+or who have used the equipment in live fire training. 
+
+ 
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 372 of 1348 
+
+ 
+
+2.5. Application of Fire Extinguishers  
+
+2.5.1.  The application of Fire Extinguishers for various hazards shall be as per Table 4.3. 
+
+Table 4.3: Application of Fire Extinguishers 
+
+HAZARD 
+
+AREA 
+
+TYPE OF EXTINGUISHER  DISTRIBUTION 
+
+ 
+i.  Multi-purpose Dry Pow-
+
+der (ONE) 
+
+2-A, 20-B, C 
+4 Kg 
+ 
+ 
+ 
+ 
+ 
+ 
+AND 
+ 
+i.  CO2 Type (ONE) 
+5 Kg 
+
+i.  Each extinguisher of 
+
+size mentioned serves 
+approximately 280 m2 
+of the area. 
+
+ii.  Maximum travel dis-
+
+tance to such an extin-
+guisher shall not be 
+more than 30 m. That is 
+from any point of the 
+area, there shall be one 
+extinguisher within a 
+distance of 30 m. 
+
+iii. Extinguishers shall be 
+placed along the corri-
+dors, waiting areas, 
+shops, supermarkets, 
+service corridors, staff 
+and reception areas 
+etc., where people can 
+easily find and use 
+them during fire acci-
+dents. 
+
+iv. As a practice fire extin-
+guishers are placed in 
+Fire Hose Cabinets in 
+UAE. Such cabinets 
+shall clearly have sign-
+age that indicates pres-
+ence of extinguishers 
+inside the Fire Hose 
+Cabinet (FHC) 
+
+1. ASSEMBLY 
+i.  Seating areas 
+ii.  Corridors 
+iii. Waiting areas 
+iv. Exit routes 
+ 
+2. BUSINESS 
+i.  Office areas 
+ii.  Shops 
+iii. Corridors 
+iv. Exit routes 
+ 
+3. EDUCATIONAL 
+i.  Corridors 
+ii.  Reception 
+iii. Auditoriums 
+iv. Assembly halls 
+v.  Locker rooms 
+ 
+4. HEALTHCARE 
+i.  Patient rooms 
+ii.  Nurse Stations 
+iii. Corridors 
+iv. Waiting areas 
+v.  Exit routes 
+ 
+5. RESIDENTIAL 
+i.  Apartments 
+ii.  Corridors 
+ 
+6. HOTEL 
+i.  Guest Rooms 
+ii.  Corridors 
+iii. Reception 
+iv. Dining areas 
+v.  Exit routes 
+ 
+7. DAYCARE 
+i.  Corridors 
+ii.  Reception 
+iii. Exit routes 
+ 
+
+1.  CLASS A 
+
+FIRES 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 373 of 1348 
+
+ 
+
+Table 4.3: Application of Fire Extinguishers 
+
+HAZARD 
+
+AREA 
+
+TYPE OF EXTINGUISHER  DISTRIBUTION 
+
+i.  Each extinguisher of 
+
+size mentioned serves 
+approximately 280 m2 
+of the area. 
+
+ii.  Maximum travel dis-
+
+tance to such an extin-
+guisher shall not be 
+more than 30 m. That is 
+from any point of the 
+area, there shall be one 
+extinguisher within a 
+distance of 30 m. 
+
+iii. Extinguishers shall be 
+placed along the corri-
+dors, waiting areas, 
+shops, supermarkets, 
+service corridors, staff 
+and reception areas 
+etc., where people can 
+easily find and use 
+them during fire acci-
+dents. 
+
+iv. As a practice fire extin-
+guishers are placed in 
+Fire Hose Cabinets in 
+UAE. Such cabinets 
+shall clearly have sign-
+age that indicates pres-
+ence of extinguishers 
+inside the Fire Hose 
+Cabinet (FHC) 
+
+1.  CLASS A 
+
+8. DETENTION AND           
+
+FIRES 
+
+CORRECTION 
+
+ 
+i.  Multi-purpose Dry Pow-
+
+der (ONE) 
+
+2-A, 20-B, C 
+4 Kg 
+ 
+ 
+ 
+ 
+ 
+OR 
+ 
+i.  CLEAN Agent Type (ONE) 
+4 Kg 
+ 
+ 
+ 
+ 
+ 
+AND 
+ 
+i.  CO2 Type (ONE) 
+5 Kg 
+
+i.  Corridors 
+ii.  Waiting areas 
+iii. Assembly areas 
+iv. Dining areas 
+v.  Exit routes 
+ 
+9. MERCANTILE 
+i.  Office areas 
+ii.  Shops 
+iii. Supermarkets 
+iv. Retail areas 
+v.  Corridors 
+vi. Exit routes 
+ 
+10. MALLS 
+i.  Corridors 
+ii.  Information Desk 
+iii. Service Corridor 
+iv. Mall circulation areas 
+v.  Play areas 
+vi. Food courts 
+vii. Exit routes 
+ 
+11. STORAGE (WAREHOUSE) 
+
+AND FACTORIES 
+
+i.  Office areas 
+ii.  Corridors 
+ 
+12. ANIMAL HOUSING 
+i.  Office areas 
+ii.  Corridors 
+iii. Storage areas 
+ 
+12. FUEL DISPENSING 
+i.  Mini Marts 
+ii.  Restaurant seating areas 
+ 
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 374 of 1348 
+
+ 
+
+Table 4.3: Application of Fire Extinguishers 
+
+HAZARD 
+
+AREA 
+
+TYPE OF EXTINGUISHER 
+
+DISTRIBUTION 
+
+i.  Foam Type (ONE) 
+9 Liters (3 Gal) 
+ 
+ 
+ 
+ 
+ 
+AND 
+ 
+i.  Multi-purpose Dry Powder (ONE) 
+2-A, 20-B, C 
+4 Kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+i.  Each extinguisher 
+of size mentioned 
+serves approxi-
+mately 280 m2 of 
+the area. 
+
+ii.  Maximum travel 
+distance to such 
+an extinguisher 
+shall not be more 
+than 15 m. That is 
+from any point of 
+the area, there 
+shall be one extin-
+guisher within a 
+distance of 15 m. 
+iii. Extinguishers shall 
+
+be placed along 
+the corridors, 
+waiting areas, 
+shops, supermar-
+kets, service corri-
+dors, staff and 
+reception areas 
+etc., where peo-
+ple can easily find 
+and use them dur-
+ing fire accidents. 
+iv. As a practice fire 
+extinguishers are 
+placed in Fire 
+Hose Cabinets in 
+UAE. Such cabi-
+nets shall clearly 
+have signage that 
+indicates presence 
+of extinguishers 
+inside the Fire 
+Hose Cabinet 
+(FHC) 
+
+2.  CLASS B 
+
+FIRES 
+
+1. ASSEMBLY 
+i.  Bars 
+ii.  Pubs 
+iii. Night Clubs 
+ 
+2. EDUCATIONAL 
+i.  Laboratories 
+ii.  Cleaning solvent 
+
+stores 
+
+ 
+3. HEALTHCARE 
+i.  Chemical Stores 
+ii.  Linen Stores 
+iii. Waste Storage 
+iv. Cleaning solvent 
+
+stores 
+
+ 
+4. HOTEL 
+i.  Chemical Stores 
+ii.  Linen Stores 
+iii. Waste Storage 
+iv. Cleaning solvent 
+
+stores 
+
+ 
+5. MERCANTILE 
+i.  Chemical Stores 
+ii.  Flammable liquid 
+
+Stores 
+
+ 
+6. MALLS 
+i.  Service Corridor 
+ii.  Cleaning solvent 
+
+stores 
+
+ 
+7. STORAGE 
+
+(WAREHOUSE) 
+AND FACTORIES 
+i.  Chemical Storage 
+
+and activity 
+
+ii.  Flammable liquid 
+
+Storage and activity 
+iii. Flammable material 
+Storage and activity 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 375 of 1348 
+
+ 
+
+ 
+
+Table 4.3: Application of Fire Extinguishers 
+
+HAZARD 
+
+AREA 
+
+TYPE OF EXTINGUISHER 
+
+DISTRIBUTION 
+
+3.  CLASS B 
+
+1. FUEL DISPENSING  
+
+FIRES 
+
+STATIONS 
+
+i.  Petrol Filling     
+
+Station 
+
+ 
+2. STORAGE 
+
+(WAREHOUSE) 
+AND FACTORIES 
+i.  Bulk storage of 
+
+flammable liquids  
+
+ii.  Group A Plastic 
+
+storage and activi-
+ty 
+
+ 
+3.  DIESEL GENERA-
+
+TOR ROOM, DIE-
+SEL GENERATOR 
+SET/SHED 
+
+4. PARKING AREAS 
+
+i.  Wheeled Type Foam  (ONE) 
+50 Liters (13 Gal) 
+ 
+ 
+ 
+ 
+ 
+AND 
+ 
+i.  Multi-purpose Dry Powder (ONE) 
+2-A, 20-B, C 
+4 Kg 
+ 
+ 
+ 
+ 
+
+i.  Maximum travel 
+
+distance to such an 
+extinguisher shall 
+not be more than 
+15 m. That is from 
+any point of the ar-
+ea, there shall be 
+one extinguisher 
+within a distance of 
+15 m. 
+
+ii.  Extinguishers shall 
+be placed  near the 
+hazard in protected 
+environment as per 
+manufacturer’s 
+guidelines. 
+
+ 
+
+4.  CLASS C 
+
+1.    ELECTRICAL/LV 
+
+FIRES 
+
+ROOM 
+
+2.  TELEPHONE 
+
+ROOM 
+
+3.  LIFT MACHINE 
+
+ROOM 
+
+4.  AHU ROOM 
+5.  MECHANICAL 
+PLANT ROOM 
+6.  CABLE SPREAD-
+
+ING ROOMS 
+
+7.  RMU ROOMS 
+8.  SWITCHGEAR 
+
+ROOM 
+
+ 
+
+i.  CO2 Type (ONE) 
+5 Kg 
+ 
+ 
+ 
+ 
+ 
+OR 
+ 
+i. CLEAN Agent Type (ONE) 
+5 Kg 
+
+5.  CLASS C 
+
+FIRES 
+
+9.    HV ROOM 
+10. TRANSFORMER 
+
+i.  Wheeled CO2 Type (ONE) 
+12 Kg 
+
+ROOM 
+
+11. ELECTRICAL 
+
+HEAVY EQUIP-
+MENT AND 
+MACHINARY 
+
+ 
+
+i.  Maximum travel 
+
+distance to such an 
+extinguisher shall 
+not be more than 9 
+m. That is from any 
+point of the area, 
+there shall be one 
+extinguisher within 
+a distance of 9 m. 
+
+ii.  Extinguisher shall be 
+
+placed inside the 
+room next to exit. 
+
+i.  Maximum travel 
+
+distance to such an 
+extinguisher shall 
+not be more than 9 
+m. That is from any 
+point of the area, 
+there shall be one 
+extinguisher within 
+a distance of 9 m. 
+ii.  Trolley mounted 
+
+extinguisher shall be 
+placed inside the 
+room, next to exit. 
+
+| CDGH-OP-25 |     September 2018Page 376 of 1348 
+
+ 
+
+Table 4.3: Application of Fire Extinguishers 
+
+HAZARD 
+
+AREA 
+
+TYPE OF EXTINGUISHER  DISTRIBUTION 
+
+6.  CLASS K 
+
+1. KITCHEN, HOMES 
+
+FIRES 
+
+i.  Extinguishers shall be 
+placed inside kitchen 
+next to Kitchen exit 
+door. 
+
+i. Multi-purpose Dry Powder 
+
+(ONE) 
+
+3A, 20-B, C 
+2.5 Kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7.  CLASS K 
+
+2.  COMMERCIAL 
+
+FIRES 
+
+KITCHENS 
+
+3.  RESTAURANT  
+
+KITCHENS 
+
+4.  FOOD COURT  
+
+KITCHENS 
+
+ 
+
+i.  Wet Chemical Type (ONE) 
+9 Liters (3 Gal) 
+ 
+AND 
+ 
+i.  CO2 Type (ONE) 
+5 Kg 
+
+i.  Extinguishers shall be 
+placed inside kitchen 
+next to Kitchen exit 
+door. 
+
+i.  Wheeled D Type (ONE) 
+12 Kg 
+
+i.  Maximum travel dis-
+
+tance to such an extin-
+guisher shall not be 
+more than 15 m. That is 
+from any point of the 
+area, there shall be one 
+extinguisher within a 
+distance of 15 m. 
+
+8. CLASS D FIRES  1.   ACTIVITIES WHERE 
+
+COMBUSTIBLE    
+METALS SUCH AS   
+MAGNESIUM,       
+TITANIUM,            
+ZIRCONIUM,         
+SODIUM, LITHIUM, 
+AND POTASSIUM 
+ARE STORED AND 
+HANDLED 
+
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 377 of 1348 
+
+3. Design, Installation, Inspection and Maintenance of Fire  
+
+Fire Extinguishers 
+
+ 
+
+ 
+3.1. 
+ 
+
+Design/Specification and Submittals 
+
+3.1.1.  Design, Specifications and Submittals to Civil Defence for approval shall be main 
+consultants responsibility. Consultant shall have competent and knowledgeable 
+personnel to understand the Civil Defence requirements and codes and standards. 
+
+ 
+3.1.2.  Design submittals shall be complete with appropriate selection of fire extinguish-
+ers, location on layouts as per maximum travel distances and table of number of 
+fire extinguishers, in compliance with this code. 
+
+ 
+Installation 
+
+3.2. 
+ 
+
+3.2.1. 
+
+ 
+3.2.2. 
+
+ 
+3.2.3. 
+
+ 
+3.2.4. 
+
+ 
+3.2.5. 
+
+Installation of Fire Extinguishers shall be carried out only by Civil Defence approved 
+and licensed contractors. General contractors, Civil contractors and MEP Contrac-
+tors, fitout Contractors shall not be allowed to install Fire extinguishers, unless 
+they are licensed. 
+
+Fire extinguisher Installation contractor qualification and approval from Civil De-
+fence is based on their training from respective system manufacturers, experience, 
+understanding of codes and standards and workmanship. 
+
+Fire extinguisher Installation contractors shall apply to Civil Defence and secure 
+passing marks in Civil Defence examination to gain license and be qualified as 
+“approved Fire extinguisher contractors”. 
+
+Installation contractor shall not commence work on site without receiving Civil De-
+fence stamped and approved drawings from the Consultant. 
+
+It is contractors responsibility to adhere to consultant’s Civil Defence approved 
+drawings and Manufacturer’s installation guidelines and specifications. 
+
+ 
+Inspection and Acceptance 
+
+Inspection and acceptance shall be main consultant’s responsibility. 
+
+3.3.1. 
+ 
+3.3.2.  Main consultant shall inspect contractor work during installations and ensure that 
+fire extinguishers are charged, installed, inspected, commissioned and performing 
+as per the Civil Defence approved drawings, manufacturer’s design and installation 
+guidelines, acceptance criteria and their intended purpose. 
+
+ 
+3.3.3. 
+
+Consultant shall handover total number, types, location of fire extinguishers,  in-
+spection report and maintenance manuals to the owner. 
+
+Inspection and Maintenance 
+
+3.4.1. 
+
+The building owner, his appointed representative and the facility management 
+shall be responsible to ensure that all the Fire Extinguishers in the facility are in-
+spected regularly, maintained, charged and repaired to serve their intended pur-
+pose during fire accidents. 
+
+ 
+
+3.3. 
+ 
+
+ 
+3.4. 
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 378 of 1348 
+
+3.4.2. 
+ 
+3.4.3. 
+
+The inspection and maintenance of Fire Extinguishers shall be as per Table 4.4. 
+
+The fire extinguishers shall be serviced and maintained once every year. The Table 
+4.4 requirements are minimum guidelines. NFPA 10 shall be referred for further 
+details and maintenance requirements. 
+
+Table 4.4: Inspection and Maintenance of Fire Extinguishers 
+
+ITEM 
+
+REQUIREMENTS 
+
+1.  ACCEPTANCE 
+INSPECTION  
+
+i. 
+
+The location, designated place and appropriate type/rating of extinguisher for 
+the hazard shall be verified and ensure that it is as per consultant and Civil De-
+fence approved drawings. 
+Extinguisher shall be installed at proper height as per this chapter. 
+
+ii. 
+iii.  The extinguisher shall be free of obstruction and in compliance with maximum 
+
+travel distance requirements as per this chapter.  
+
+iv.  Safety seals and tamper indicators shall be in place and not damaged or missing. 
+v.  Operating instructions and labels on nameplates shall be legible and facing for-
+
+ward and visible. 
+
+vi.  Extinguisher shall be fully charged, weighing correctly as per manufacturer’s 
+
+specification. 
+
+vii.  Fie extinguishers shall be free of physical damage, dents, corrosion, leakage. 
+viii.  Nozzles and spray horns shall be free of clogging. 
+ix.  Pressure gauge reading or indicator shall be in the acceptable range as per man-
+
+ufacturer’s specifications. 
+
+x.  Where wheeled or trolley mount extinguishers are installed, condition of tires, 
+
+wheels, carriage, hose and nozzles shall be in good working condition.  
+
+xi.  Visual signage, pointing at the location of extinguisher, both in Arabic and Eng-
+
+lish shall be in place and visible. 
+
+xii.  Corrective actions shall be taken if any of the above inspections result in unac-
+
+ceptable conditions. 
+
+xiii.  A record of the acceptance test shall be maintained in the facility. 
+
+2.  DAILY             
+INSPECTIONS 
+
+i. 
+
+Facility management should check daily, but not more than monthly, the loca-
+tion and presence of appropriate extinguisher as per hazard and ensure that 
+extinguishers are not shuffled from their suitable locations. 
+
+ii.  Pressure gauge of extinguishers shall be verified to be in acceptable range. 
+
+3.  MONTHLY     
+INSPECTIONS 
+
+i. 
+
+Facility management shall check monthly the location and presence of appropri-
+ate extinguisher as per hazard and ensure that extinguishers are not shuffled 
+from their suitable locations. 
+
+ii.  Pressure gauge of extinguishers shall be verified to be in acceptable range. 
+iii.  Extinguishers shall be taken out from their hangers, cleaned and put back onto 
+
+iv. 
+
+i. 
+
+4.  ANNUAL        
+INSPECTIONS 
+
+their hangers. 
+If any of the extinguisher is taken out for repair or recharging, a replacement 
+extinguisher of the same type and rating shall be installed in its place. 
+
+Stored-pressure types containing a loaded stream agent shall be disassembled 
+on an annual basis and subjected to complete maintenance. Prior to disassem-
+bly, the fire extinguisher shall be fully discharged to check the operation of the 
+discharge valve and pressure gauge. The loaded stream charge shall be per-
+mitted to be recovered and re-used, provided it is subjected to agent analysis in 
+accordance with manufacturer’s instructions.  
+
+ii.  A conductivity test shall be conducted annually on all carbon dioxide hose as-
+
+semblies. Hose assemblies found to be nonconductive shall be replaced. Carbon 
+dioxide hose assemblies that pass a conductivity test shall have the test infor-
+mation recorded on a suitable metallic label or equally durable material. 
+
+iii.  Pressure regulators provided with wheeled-type fire extinguishers shall be test-
+
+ed for outlet static pressure and flow rate in accordance with manufacturer’s 
+instructions. 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 379 of 1348 
+
+ 
+
+Table 4.4: Inspection and Maintenance of Fire Extinguishers 
+
+ITEM 
+
+REQUIREMENTS 
+
+5.  MAINTENANCE   1.  EQUIPMENT/CYLINDERS 
+
+ 
+i. 
+
+Extinguishers shall be in charged condition as per manufacturer’s specifica-
+tions. 
+
+ii.  All mechanical parts shall be inspected for smooth operation. 
+iii.  Hydrostatic tests shall be conducted or extinguishers shall be replaced if there 
+
+are signs of corrosion, mechanical damage, denting or abrasion. 
+
+iv.  Damaged threads, damaged gauges, damaged seals and locks etc. shall be 
+
+replaced. 
+
+v.  Deformed nozzles, clogged nozzles, blocked nozzles shall be replaced/cleaned 
+
+and ensured that it is in good working condition. 
+
+vi.  Damaged, cracked or torn hose assemblies shall be replaced. 
+vii.  Valves, gauges, pressure indicating devices shall be free of damage. if dam-
+
+aged, shall be replaced. 
+
+viii.  If puncture mechanism is damaged, dull, shall be replaced. 
+ix.  Corroded, damaged carriage for trolley type extinguishers, shall be repaired or 
+
+replaced. 
+
+x.  Damaged, wheels, spokes, jammed wheels shall be replaced in wheel type 
+
+extinguishers. 
+
+xi.  Damaged gaskets, “O” rings and seals shall be replaced. 
+xii.  Corroded, damaged gas tubes, siphon or pickup tube shall be replaced. 
+ 
+2.  EXTINGUISHING AGENT 
+ 
+i.  WATER: If improper fill level, refill. 
+ii. 
+iii.  CO2: If improper weight, recharge to proper weight. 
+iv.  DRY CHEMICAL/DRY POWDER: If agent is contaminated or caking, empty, 
+
+FOAM: If recharge date is due, empty, clean and recharge. 
+
+clean and refill. If improper weight, refill to specifications. If cartridge is dam-
+aged, tampered or punctured, replace cartridge. 
+
+v.  WET CHEMICAL: IF improper weight, empty, clean and refill. if pressure not in 
+
+acceptable range, re-pressurize.  
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 380 of 1348 
+
+4.   Fire Extinguisher Material Test Standards and Approval. 
+
+ 
+
+4.1. Acceptable Test Standards and criteria 
+ 
+
+4.1.1.  All the Extinguishers, Extinguishing agents, Materials, Systems, Assemblies, Hose, 
+
+Pipes, nozzles and fittings, equipment, Products and Accessories, referred to in this 
+chapter shall be Listed, Approved and Registered by the Civil Defence Material Ap-
+proval Department. 
+
+ 
+4.1.2.  There is no year of edition mentioned against any test standards. It is the intent of 
+
+Civil Defence to convey to the customers seeking laboratory tests and the test la-
+boratories to follow the “LATEST EDITION OF THE TEST STANDARD, AS AND WHEN 
+THEY ARE UPGRADED/REVISED/AMENDED, TO THE DATE.” 
+
+4.1.3.  Portable Extinguisher (General) 
+ 
+
+i.   ANSI/UL 711, Standard for Rating and Fire Testing of Fire Extinguishers 
+ii.  ANSI/NFPA 10, Portable Fire Extinguishers 
+iii. CAN/ULC-S508-M90, Standard for Rating and Fire Testing of Fire Extinguishers 
+
+and Class D Extinguishing Media 
+
+iv. EN 3-7 +A1, EN 3-8, EN 3-9, Portable fire extinguishers. Characteristics, perfor-
+
+mance requirements and test methods. 
+
+ 
+
+4.1.4.  Mobile (Wheeled/Trolley) Type Extinguisher 
+ 
+
+ EN 1866-1, 2, 3. Mobile fire extinguishers Characteristics performance and test 
+methods. 
+
+i. 
+
+ 
+
+4.1.5.  CO2 Extinguisher 
+ 
+
+ ANSI/UL 154, Standard for Carbon Dioxide Fire Extinguishers;  
+
+i. 
+ii.   CAN/ULC-S503-M90, Standard for Carbon Dioxide Hand and Wheeled Fire Extin-
+
+guishers. 
+
+iii. EN 1866-1, Standard for Carbon Dioxide Wheeled Fire Extinguishers. 
+iv. EN ISO 5923, Equipment for fire protection and fire fighting.  Fire extinguishing 
+
+media.  Carbon  
+
+ 
+
+6.1.6.  Dry Chemical/Dry Powder Extinguisher 
+ 
+
+i.  UL 299, Standard for Dry Chemical Fire Extinguishers; 
+ii.  CAN/ULC-S504-M86, Standard for Dry Chemical and Dry Powder Hand and 
+
+Wheeled Fire Extinguishers. 
+
+iii.  EN 615, Fire protection, fire extinguishing media specifications for powder 
+
+(other than class D powders) 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 381 of 1348 
+
+ 
+
+4.1.7.  Water Type Extinguisher 
+ 
+
+i.   ANSI/UL 626, Standard for Water based Fire Extinguishers; 
+ii.   CAN/ULC-S507-92, Standard for 9 Liter Stored Pressure Water Type Fire Extin-
+
+guishers. 
+
+ 
+
+4.1.8.  Foam Type Extinguisher 
+ 
+
+i.   ANSI/UL 8, Standard for Foam Fire Extinguishers. 
+ 
+
+4.1.9.  Halocarbon Type Extinguisher 
+ 
+
+i.   ANSI/UL 2129, Standard for Halocarbon Agent Fire Extinguishers 
+ 
+
+4.1.10. Fire Blankets 
+ 
+
+i.   EN 1869, Standard for Fire Blanket 
+ii.   BS 7944, Type 1 heavy duty fire blankets and type 2 heavy duty heat protective 
+
+blankets. 
+
+ 
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 382 of 1348Chapter 5 
+EXIT SIGNS 
+
+| CDGH-OP-25 |     September 2018Page 383 of 1348In this Chapter:
+ Specifications of exit signs and directional markings.
+
+ Location of exit and directional markings. 
+
+ Standard format of the “Emergency Evacuation Plans”.
+ 
+
+Intent of the Chapter: 
+
+• 
+
+• 
+
+To provide clear and visible exit signs and directional marking in a facility to 
+enable people to find exits swiftly and easily during emergencies. 
+To standardize the exit signs, directional signs and emergency evacuation plans. 
+
+| CDGH-OP-25 |     September 2018Page 384 of 1348 
+
+In this Chapter : 
+
+Intent of the Chapter 
+
+  Specifications of Exit Signs and 
+
+Directional Markings 
+
+  Location of Exit and Directional 
+
+markings 
+
+  Standard format of the 
+
+“Emergency Evacuation Plans” 
+
+  To provide clear and visible exit signs and directional 
+
+marking in a facility to enable people to find exits swiftly 
+and easily during emergencies. 
+
+  To standardize the Exit Signs, Directional Signs and 
+
+Emergency Evacuation Plans. 
+
+1. Definitions 
+
+1.1. General 
+
+It is a mandatory requirement from Civil Defence. 
+
+It is a suggested requirement recommended by Civil Defence but not mandatory. 
+
+Approved and registered by individual Emirates’ Civil Defence material department. 
+
+The SI unit of illumination equal to a luminous flux of 1 lumen per square meter.  
+1 lux = 0.0929 foot-candle  
+
+1.1.1.  Shall  
+ 
+ 
+1.1.2.  Should 
+ 
+ 
+1.1.3.  Listed 
+ 
+ 
+1.1.4.  Lux  
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+| CDGH-OP-25 |     September 2018Page 385 of 1348
